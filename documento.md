@@ -67,7 +67,7 @@ projeto_iot/
 cmake_minimum_required(VERSION 3.12)
 project(iot_project)
 add_executable(main exercicio.c)
-target_link_libraries(main pico_stdlib hardware_adc pico_cyw43_arch_lwip_threadsafe_background)
+target_link_libraries(main pico_stdlib hardware_adc pico_cyw43_arch_lwip_threadsafe_background)```
 
 ## 5 DIAGRAMA DE CIRCUITO E LIGAÇÕES
 
